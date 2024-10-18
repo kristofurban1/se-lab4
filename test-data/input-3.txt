@@ -1,0 +1,2 @@
+GT4500,10,0,10,0 # 0% siker
+TORPEDO,SINGLE
